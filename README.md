@@ -4,7 +4,7 @@ Facebook brute force tool to check passwords on one account
 # The tool is educational and I do not bear any legal responsibility 
 ```
 
-## Install Requirements(Linux)
+## Install Requirements
 ```
 >> apt-get install git python python-pip python python-pip
 ```
